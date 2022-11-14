@@ -10,7 +10,10 @@
 - HTML
 - JAVASCRIPT 
 - CSS
-- animate.css (https://animate.style/)
+<a href="[htps://animate.style/]>
+- nimate.css ()
+</a>
+
 
 
 
