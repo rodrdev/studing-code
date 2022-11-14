@@ -13,6 +13,10 @@
 - JAVASCRIPT
 - CSS
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7b555a2d23cfcf5fe8f96ac36b3f71b5df4f41c8
 =======
 
 >>>>>>> 7b555a2d23cfcf5fe8f96ac36b3f71b5df4f41c8
