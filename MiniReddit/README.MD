@@ -12,4 +12,4 @@
 - HTML
 - JAVASCRIPT
 - CSS
-- [ANIMATE.CSS](https://animate.style/)
+
