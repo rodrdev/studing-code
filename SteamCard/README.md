@@ -6,4 +6,12 @@
   <img src="https://i.imgur.com/jtCAUre.png" />
 </p>
 
-**languages and tools:**
+**languages, tools and libs:**
+- HTML
+- JAVASCRIPT 
+- CSS
+- animate.css (https://animate.style/)
+
+
+
+
