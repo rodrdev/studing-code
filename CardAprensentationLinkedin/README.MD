@@ -3,10 +3,10 @@
 ### Hey! Welcome to project Card Apresentation Linkedin✨✨
 
 <div style="display: flex;">
-<p align="center">
+<p >
   <img src="https://imgur.com/QdvF48I.png" />
 </p>
-<p align="center">
+<p>
   <img src="https://i.imgur.com/4wEljoU.png" />
 </p>
 </div>
