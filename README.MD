@@ -1,4 +1,4 @@
-### Hey! Welcome studing-code ✨✨
+### Hey! Welcome studing code ✨✨
 
 **Repository created with the intention of helping devs who are starting their careers**
 
