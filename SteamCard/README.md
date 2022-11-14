@@ -10,7 +10,7 @@
 - HTML
 - JAVASCRIPT 
 - CSS
-- animate.css 
+- [ANIMATE.CSS](https://animate.style/)
 
 
 
