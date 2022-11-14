@@ -10,9 +10,8 @@
 - HTML
 - JAVASCRIPT 
 - CSS
-<a href="htps://animate.style/">
 - animate.css 
-</a>
+
 
 
 
